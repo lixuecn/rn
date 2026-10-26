@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Focus Today",
+    "slug": "focus-today",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F6F7FB"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6C63FF"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
